@@ -5,3 +5,6 @@ ao adiconar uma imagem no vscode e der um ./ dentro do comando ele mostra as ima
 no alt do code de imagem voce pode adicionar uma descriçao da imagem para pessoas poderem ver essa descriçao
 comando widht e height dimensiona a imagem no code de img em proporçao e altura respectivamente juntamente com a contagem de pixels (px)
 comando pwd para achar uma imagem dentro dos arquivos basta incar o caminho que esta a imagem
+ctrl+/ cria titulos de seçao que nao aparecem na pagina e servem para voce fracionar o codigo
+comando <br> faz uma quebra de texto para nao ficar junto
+comando <strong> deixa em negrito e da uma entonaçao forte para quem esta usando leitor de tela
