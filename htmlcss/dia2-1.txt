@@ -1,1 +1,7 @@
 adicionar extensao live server e material icon
+shift alt seta pra baixo copia a linha de code pra baixo
+selecionar qualquer ponto /parte da tela e inspecionar mostra o code que forma aquela parte
+ao adiconar uma imagem no vscode e der um ./ dentro do comando ele mostra as imagens que estao dentro do diretorio que voce esta criando a pagina
+no alt do code de imagem voce pode adicionar uma descriçao da imagem para pessoas poderem ver essa descriçao
+comando widht e height dimensiona a imagem no code de img em proporçao e altura respectivamente juntamente com a contagem de pixels (px)
+comando pwd para achar uma imagem dentro dos arquivos basta incar o caminho que esta a imagem
