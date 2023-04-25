@@ -1,0 +1,4 @@
+tag (style{}) no head ajuda a estilizar em diversas partes do codigo colando ex: h1,h3; body
+google fonts ajuda a achar fontes para o codigo ex: font-family: "montserrat", sans-serif;9;
+tag p{} no head estiliza o paragrafo
+colocar um (font-size+tamanho da fonte) padroniza a fonte para todos os navegadores para nao acontecer erro no code
