@@ -1,0 +1,10 @@
+tag (style{}) no head ajuda a estilizar em diversas partes do codigo colando ex: h1,h3; body
+google fonts ajuda a achar fontes para o codigo ex: font-family: "montserrat", sans-serif;9;
+tag p{} no head estiliza o paragrafo
+colocar um (font-size+tamanho da fonte) padroniza a fonte para todos os navegadores para nao acontecer erro no code
+comando . class="nome-da-classe" cria uma classe para adicionar o que for somente na parte do codigo que tiver essa classe
+comando # id="nome-da-id" adiciona o que for para somente uma linha que eu adicionar diferente da class que pode ser usada em varias (comando id tem prioridade por isso é unico)
+margin bottom (margem embaixo) line height (margem entre as linhas) text-align (diz o alinhamento do texto)
+border=radius %ouPX arredonda as imagens
+text-decoration: none; tira o traço embaixo do link
+padding: cria o background do botao
