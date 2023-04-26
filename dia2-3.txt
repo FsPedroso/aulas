@@ -1,0 +1,9 @@
+usar a documentaçao do vscode para descobrir mais sobre as tags
+w3schools site de documentaçao
+tag (*{}) no css é sobre toda a borda a pagina
+dica usar o border_ 2px solid e uma cor para criar uma borda do seu conteiner(div)
+max-widht para deixar o textou ou outra coisa até certa parte da pagina
+extensao pesticide
+margin auto define o mesmo espaço tanto pra direita quanto pra esquerda
+extensao dracula
+ctrl / para comentar
